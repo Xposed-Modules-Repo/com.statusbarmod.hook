@@ -1,6 +1,7 @@
 # 🚀 FakeSIM - LSPosed Module
 
 ![Android](https://img.shields.io/badge/Android-10--13-green)
+![MIUI](https://img.shields.io/badge/MIUI-Compatible-green)
 ![LSPosed](https://img.shields.io/badge/LSPosed-Compatible-blue)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 
@@ -15,7 +16,7 @@ It works across multiple Android versions and ROMs, including MIUI.
 ## ⚙️ Compatibility
 
 - ✅ Android 10 → Android 13 (crdroid with Android 11 not works, systemUI crash)
-- ✅ MIUI 12.0 / 12.5  
+- ✅ MIUI  
 - ⚠️ Android 14+ → Not supported (breaking changes)
 
 ---
@@ -108,7 +109,7 @@ Developed by **Pacuwu**
 ## ⚙️ Compatibilidad
 
 - ✅ Android 10 → Android 13 (crdroid con Android 11 no funciona, crashea systemUI)
-- ✅ MIUI 12.0 / 12.5  
+- ✅ MIUI  
 - ⚠️ Android 14+ cambios que rompen el hook
 ---
 
