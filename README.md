@@ -1,6 +1,8 @@
 # 🚀 FakeSIM - LSPosed Module
 
 ![Android](https://img.shields.io/badge/Android-10--13-green)
+![Android](https://img.shields.io/badge/Android-14-orange) (in some ROMs)
+![ColorOS](https://img.shields.io/badge/ColorOS-13-yellow) (Partial working, will be fixed soon)
 ![MIUI](https://img.shields.io/badge/MIUI-Compatible-green)
 ![LSPosed](https://img.shields.io/badge/LSPosed-Compatible-blue)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
@@ -16,8 +18,10 @@ It works across multiple Android versions and ROMs, including MIUI.
 ## ⚙️ Compatibility
 
 - ✅ Android 10 → Android 13 (crdroid with Android 11 not works, systemUI crash)
-- ✅ MIUI  
-- ⚠️ Android 14+ → Not supported (breaking changes)
+- ✅ MIUI
+- ✅ HyperOS
+- ⚠️ ColorOS --> It works partially; the R icon and 4G appear, but without bars.
+- ⚠️ Android 14+ → Not supported (breaking changes in some ROMs)
 
 ---
 
@@ -109,7 +113,9 @@ Developed by **Pacuwu**
 ## ⚙️ Compatibilidad
 
 - ✅ Android 10 → Android 13 (crdroid con Android 11 no funciona, crashea systemUI)
-- ✅ MIUI  
+- ✅ MIUI
+- ✅ HyperOS
+- ⚠️ ColorOS --> funcionamiento parcial, solo aparece la R y el 4G
 - ⚠️ Android 14+ cambios que rompen el hook
 ---
 
