@@ -20,6 +20,7 @@ It works across multiple Android versions and ROMs, including MIUI.
 - ✅ Android 10 → Android 13 (crdroid with Android 11 not works, systemUI crash)
 - ✅ MIUI
 - ✅ HyperOS (GSIs may fail)
+- ✅ OneUI 7 (android 15, tested on redmi 9A with port) ---> It works if you use this [APK](https://github.com/mure2005/FakeSIM-Lsposed-module/releases/download/FakeSIM_module_lsposed/com.statusbar.hook.2.0.android15.16.version.apk)
 - ⚠️ ColorOS --> It works partially; the R icon and 4G appear, but without bars.
 - ⚠️ Android 14+ → Not supported (breaking changes in some ROMs)
 
@@ -115,7 +116,8 @@ Developed by **Pacuwu**
 - ✅ Android 10 → Android 13 (crdroid con Android 11 no funciona, crashea systemUI)
 - ✅ MIUI
 - ✅ HyperOS (en GSIs puede fallar)
-- ⚠️ ColorOS --> funcionamiento parcial, solo aparece la R y el 4G
+- ✅ OneUI 7 (android 15, probado en un Port en un redmi 9A) ---> funciona con este [apk](https://github.com/mure2005/FakeSIM-Lsposed-module/releases/download/FakeSIM_module_lsposed/com.statusbar.hook.2.0.android15.16.version.apk)
+- ⚠️ ColorOS (GSIs) --> funcionamiento parcial, solo aparece la R y el 4G
 - ⚠️ Android 14+ cambios que rompen el hook
 ---
 
